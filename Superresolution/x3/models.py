@@ -305,9 +305,3 @@ class LitNet(nn.Module):
         final_output = self.f_conv(final_output)
   
         return final_output
-
-x = torch.rand(5,3,214,160)
-
-netW = LitNet(3)
-r_out = netW(x)
-print(r_out.shape)
