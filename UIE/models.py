@@ -187,12 +187,10 @@ class encoder_block(nn.Module):
         return op3,p
 
 
-class CC_Module(nn.Module):
+class LitNet(nn.Module):
 
     def __init__(self):
-        super(CC_Module, self).__init__()   
-
-        print("Color correction module for underwater images")
+        super(LitNet, self).__init__()
 
         scale=1
         self.layer1_1 = Conv2D_pxp(1, 32, 3,1,1)
@@ -235,8 +233,6 @@ class CC_Module(nn.Module):
         self.convf_1 = Conv2D_pxp(64, 3, 3,1,1)
 
     def forward(self, input):
-        
-        #print(input.size())
         input_1 = torch.unsqueeze(input[:,0,:,:], dim=1)
         input_2 = torch.unsqueeze(input[:,1,:,:], dim=1)
         input_3 = torch.unsqueeze(input[:,2,:,:], dim=1)
