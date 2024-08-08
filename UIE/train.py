@@ -32,7 +32,7 @@ if __name__ == '__main__':
 	scale = opt.scale
 	print("Underwater Image Super-Resolution [SCALE]: ", scale)
 
-	netG = CC_Module(scale)
+	netG = LitNet(scale)
 	# print('underwater dehaze network ', netG)
 	netG.to(device)
 
