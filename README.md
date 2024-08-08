@@ -1,6 +1,6 @@
 # Lit-Net
 **Harnessing Multi-resolution and Multi-scale Attention for Underwater Image Restoration.**
-- Currently, the paper is under review.
+- Currently, the paper is submitted to [**The Visual Computer**](https://link.springer.com/journal/371).
 
 ![Block](LitNet_dia.png)
 
