@@ -2,7 +2,7 @@
 Harnessing Multi-resolution and Multi-scale Attention for Underwater Image Restoration.
 - Currently, the paper is under review. The code will be uploaded soon.
 
-![Block](imgs/proposed.png)
+![Block](Diagram_LitNet.pdf)
 
 - This paper deals with the **underwater image restoration**. 
 - For this, we have considered two of the main low-level vision tasks, 
