@@ -297,9 +297,3 @@ class LitNet(nn.Module):
         final_output = final_output + self.bi_ups(k)
   
         return final_output
-
-x = torch.rand(5,3,320,240)
-
-netW = LitNet(2)
-r_out = netW(x)
-print(r_out.shape)
