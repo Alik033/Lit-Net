@@ -44,5 +44,5 @@ python test.py
 ### Send us feedback
 - If you have any queries or feedback, please contact us @(**p.alik@iitg.ac.in**).
 
-### Acknowledgements
-- Some portion of the code are adapted from [**DeepWaveNet**](https://github.com/pksvision/Deep-WaveNet-Underwater-Image-Restoration). The authors greatfully acknowledge it!
+ <!-- ### Acknowledgements -->
+<!-- - Some portion of the code are adapted from [**DeepWaveNet**](https://github.com/pksvision/Deep-WaveNet-Underwater-Image-Restoration). The authors greatfully acknowledge it! -->
