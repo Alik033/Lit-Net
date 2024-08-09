@@ -40,8 +40,8 @@ parser.add_argument('--lambda_ssim', type=float, default=0.5)
 
 parser.add_argument('--testing_start', type=int, default=1)
 parser.add_argument('--testing_end', type=int, default=1)
-parser.add_argument('--testing_dir_inp', default="../../Deep_SESR/lrd/")
-parser.add_argument('--testing_dir_gt', default="../../Deep_SESR/hr/")
+parser.add_argument('--testing_dir_inp', default="./lrd/")
+parser.add_argument('--testing_dir_gt', default="./hr/")
 
 opt = parser.parse_args()
 # print(opt)
