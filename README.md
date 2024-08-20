@@ -43,6 +43,18 @@ python test.py
 
 ### Send us feedback
 - If you have any queries or feedback, please contact us @(**p.alik@iitg.ac.in**).
+### Citation
+```
+@misc{pramanick2024harnessingmultiresolutionmultiscaleattention,
+      title={Harnessing Multi-resolution and Multi-scale Attention for Underwater Image Restoration}, 
+      author={Alik Pramanick and Arijit Sur and V. Vijaya Saradhi},
+      year={2024},
+      eprint={2408.09912},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2408.09912}, 
+}
+```
 
  <!-- ### Acknowledgements -->
 <!-- - Some portion of the code are adapted from [**DeepWaveNet**](https://github.com/pksvision/Deep-WaveNet-Underwater-Image-Restoration). The authors greatfully acknowledge it! -->
