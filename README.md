@@ -27,6 +27,9 @@ scipy 1.2.1
 numpy 1.16.2
 tqdm
 ```
+### Checkpoints
+- [**UIEB**](https://iitgoffice-my.sharepoint.com/personal/p_alik_iitg_ac_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fp%5Falik%5Fiitg%5Fac%5Fin%2FDocuments)
+- [**LSUI**](https://iitgoffice-my.sharepoint.com/personal/p_alik_iitg_ac_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fp%5Falik%5Fiitg%5Fac%5Fin%2FDocuments)
 
 ### Training
 - Use the below command for training:
