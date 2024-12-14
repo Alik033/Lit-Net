@@ -48,14 +48,11 @@ python test.py
 - If you have any queries or feedback, please contact us @(**p.alik@iitg.ac.in**).
 ### Citation
 ```
-@misc{pramanick2024harnessingmultiresolutionmultiscaleattention,
-      title={Harnessing Multi-resolution and Multi-scale Attention for Underwater Image Restoration}, 
-      author={Alik Pramanick and Arijit Sur and V. Vijaya Saradhi},
-      year={2024},
-      eprint={2408.09912},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2408.09912}, 
+@article{pramanick2024harnessing,
+  title={Harnessing Multi-resolution and Multi-scale Attention for Underwater Image Restoration},
+  author={Pramanick, Alik and Sur, Arijit and Saradhi, V Vijaya},
+  journal={arXiv preprint arXiv:2408.09912},
+  year={2024}
 }
 ```
 
