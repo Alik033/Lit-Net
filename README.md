@@ -1,6 +1,6 @@
 # Lit-Net ![Views](https://komarev.com/ghpvc/?username=Alik033)
 **[Harnessing Multi-resolution and Multi-scale Attention for Underwater Image Restoration](https://arxiv.org/abs/2408.09912).** 
-- Currently, the paper has been accepted in [**The Visual Computer**](https://link.springer.com/journal/371).
+- This paper has been accepted in [**The Visual Computer**](https://link.springer.com/journal/371).
 
 ![Block](LitNet_dia.png)
 
