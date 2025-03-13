@@ -17,7 +17,7 @@
 - For super-resolution,
     - [**UFO-120**](http://irvlab.cs.umn.edu/resources/ufo-120-dataset). 
 
-Rrequirements as given below.
+Requirements are given below.
 ```
 Python 3.5.2
 Pytorch '1.0.1.post2'
